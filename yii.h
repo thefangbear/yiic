@@ -7,6 +7,7 @@
 #include <unistd.h>
 
 #define 如果 if
+#define 就 {
 #define 如果其他 else if
 #define 实在不行 else
 #define 空值 void
@@ -29,9 +30,10 @@
 #define 结束 }
 
 #define 行末 ;
+#define 。 ;
 
 #define 入口函数 main
-
+#define 主程序 main
 #define 命令数量 argc
 
 #define 命令数组 argv
@@ -79,3 +81,5 @@
 #define 百万 1000000
 #define 千万 10000000
 #define 亿 10000000
+
+#define 呵呵 printf("hehe");
