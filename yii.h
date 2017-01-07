@@ -7,7 +7,8 @@
 #include <unistd.h>
 
 #define 如果 if
-#define 其他 else
+#define 如果其他 else if
+#define 实在不行 else
 #define 空值 void
 #define 短数字 short
 #define 数字 int
