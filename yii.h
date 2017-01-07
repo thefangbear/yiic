@@ -8,6 +8,7 @@
 
 #define 如果 if
 #define 就 {
+#define 好了 }
 #define 如果其他 else if
 #define 实在不行 else
 #define 空值 void
@@ -16,6 +17,7 @@
 #define 长值 long
 #define 单精度浮点数 float
 #define 双精度浮点数 double
+#define 布林 bool
 #define 类定义 typedef
 #define 结构体 struct
 #define 返回 return
