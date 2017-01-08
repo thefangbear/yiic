@@ -12,3 +12,6 @@ Currently `gcc` does not support Unicode characters as macro names, even with `-
 ## 使用
 于任意项目中引用头文件 `yii.h`.
 
+## Comments
+
+ - https://www.v2ex.com/t/333002#reply5
