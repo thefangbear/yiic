@@ -9,7 +9,7 @@
 #define 如果 if
 #define 就 {
 #define 好了 }
-#define 如果其他 else if
+#define 还是不行 else if
 #define 实在不行 else
 #define 空值 void
 #define 短数字 short
