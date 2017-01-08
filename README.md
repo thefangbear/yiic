@@ -1,7 +1,7 @@
 # ![yiic](https://github.com/thefangbear/yiic/raw/master/yiic.png)
 # yiic - C in Chinese
 
-An cultured flavor of C.
+A cultured flavor of C.
 
 ## yiic - 易C
 用中文写的 C 语言
